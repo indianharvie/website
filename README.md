@@ -8,6 +8,8 @@ The site uses [Jekyll](http://jekyllrb.com), a static site generator. GitHub Pag
 Contributing to the website
 ---------------------------
 
+Hello world
+
 **Note:** Major issues or feature requests should be filed on the [issue tracker](https://github.com/mono/website/issues) first, so we can discuss the implications.
 
 If you want to edit a page, the easiest way is to click the ![Edit page on GitHub](https://cloud.githubusercontent.com/assets/1376924/3712375/a6d7bc42-150f-11e4-9ceb-5230cbbfba3f.png) link under the page title on the website.
@@ -57,7 +59,6 @@ Repository structure
  - `files` - stores binary files used in pages
  - `images` - stores the images used in pages
  - `news` - lists the blog pages from the `_posts` directory
-
 Writing a blog post
 -------------------
 
